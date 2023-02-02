@@ -8,6 +8,7 @@ Welcome to Naumaan's attari
                   "CTF-Pl4y3r" : [ "pwn3r",
                                    "F0r3n5ic5",
                                    "Crypt0gr5phy",
+"W3b-4pp"
                                   ]
                  }
 
